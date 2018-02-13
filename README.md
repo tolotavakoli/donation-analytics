@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Table of Contents
 1. [Introduction](README.md#introduction)
 2. [Challenge summary](README.md#challenge-summary)
